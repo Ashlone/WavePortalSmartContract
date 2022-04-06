@@ -8,10 +8,10 @@ export default function App() {
   return (
     <div className="mainContainer">
       <div className="dataContainer">
-        <div className="header">👋 Hey there!</div>
+        <div className="header">Hey there!</div>
 
         <div className="bio">
-          I am farza and I worked on self-driving cars so that's pretty cool
+          I am Ashlone and I develop blockchain apps so that's pretty cool
           right? Connect your Ethereum wallet and wave at me!
         </div>
 
